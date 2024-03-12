@@ -1,0 +1,416 @@
+html {
+  scroll-behavior: smooth;
+}
+
+
+body {
+  font-family: 'Manrope', sans-serif;
+  width: 1400px;
+}
+
+body {
+  margin: auto;
+  margin-top: 33px;
+}
+
+h1 {  
+  color: black;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 60px;
+  padding-bottom: 30px;
+  letter-spacing: -0.03em;
+}
+
+p {
+  position: absolute;
+  width: 430px;
+  height: 81px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27.32px;
+  left: 5px;
+  bottom: 40px;
+}
+
+.first {
+  width: 1114px;
+  height: 500px;
+
+  background-image: url(../resources/first.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+
+  font-size: 20px;
+  line-height: 27px;
+  font-weight: 400;
+  text-align: left;
+
+  color: white;
+  padding-left: 40px;
+  padding-bottom: 40px;
+}
+
+.first-text {
+  padding-top: 379px;
+  padding-left: 40px;
+  padding-bottom: 40px;
+  padding-right: 680px;
+  position: relative;
+  letter-spacing: -0.03em;
+  top: 0;
+  left: 0;
+  width: 450px;
+  height: 81px;
+}
+
+h2 {
+  padding-top: 94px;
+  padding-bottom: 49px;
+  width: 51px;
+  height: 25px;
+  color: #121212;
+  font-weight: 400;
+}
+h3 {
+  font-size: 45px;
+  font-weight: 400;
+  padding-bottom: 30px;
+  letter-spacing: -0.03em;
+}
+.btn {
+  display: inline-block;
+  width: 253px;
+  height: 63px;
+  border-radius: 5px;
+  border: solid #ad1818;
+  text-align: center;
+  line-height: 67px;
+  text-decoration: none;
+  font-size: 20px;
+  letter-spacing: -3%;
+  font-weight: 300;
+  color: white;
+  padding: 20px, 40px;
+  background-color: #ad1818;
+  cursor: pointer;
+}
+.container {
+  width: 1150px;
+  margin: 0 auto;
+  color: #f5f5f5;
+}
+.container2 {
+  width: 1150px;
+  margin: 0 auto;
+  color: #f5f5f5;
+}
+.container3 {
+  width: 1150px;
+  margin: 0 auto;
+  font-size: 17px;
+  letter-spacing: -3%;
+  line-height: 61.47px;
+}
+
+.item {
+  width: 1150px;
+  padding-top: 150px;
+  margin-left: 125px;
+}
+
+.item__text {
+  width: 79px;
+  height: 25px;
+  font-weight: 400;
+  font-size: 18px;
+  padding-top: 150px;
+}
+
+.item__image {
+  display: block;
+  width: 100%;
+  height: 435px;
+  padding-top: 30px;
+}
+
+.item__des {
+  width: 1150px;
+  height: 41px;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 44px;
+  padding-top: 15px;
+  color: #121212;
+  letter-spacing: 3%;
+}
+
+.item__more {
+  margin-left: 125px;
+  margin-right: 125px;
+  color: #ad1818;
+  font-size: 20px;
+  height: 27px;
+  line-height: 28px;
+  letter-spacing: -3%;
+  margin-top: 15px;
+  cursor: pointer;
+}
+
+.item-2 {
+  width: 1150px;
+  padding-top: 90px;
+  margin-left: 125px;
+}
+
+.item-3 {
+  width: 1150px;
+  padding-top: 90px;
+  margin-left: 125px;
+}
+
+.btn1 {
+  display: inline;
+  width: 1150px;
+  height: 153px;
+  margin-left: 128px;
+  margin-top: 77px;
+  border: 1px solid #ad1818;
+  text-decoration: none;
+  border-radius: 5px;
+  color: #ad1818;
+  background-color: white;
+  font-size: 30px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.btn1:hover {
+  color: #f5f5f5;
+  background-color: #ad1818;
+}
+.contain {
+  width: 1400px;
+  height: 1844px;
+  margin-top: 150px;
+  background-color:  #121212;
+}
+
+h4 {
+  width: 66px;
+  height: 25px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24.59px;
+  letter-spacing: -0.03em;
+  color: #ffffff;
+  padding-top: 151px;
+  margin-left: 127px;
+  margin-right: 1207px;
+  padding-bottom: 34px;
+}
+
+.options {
+  width: 1150px;
+  height: 276px;
+  margin-left: 127px;
+}
+
+.opt {
+  height: 41px;
+  font-size: 30px;
+  margin-left: 128px;
+  padding-top: 16px;
+  color: #ffffff;
+  letter-spacing: -0.03em;
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+
+.item_last {
+  margin-bottom: 150px;
+}
+
+.nav__link {
+  width: 90px;
+  height: 25px;
+}
+
+
+.cont {
+  margin: 0 auto;
+  width: 1190px;
+  height: 25.18px;
+  padding-left: 45px;
+  padding-top: 32px;
+  padding-bottom: 70px;
+}
+
+.logo-link {
+display: inline-block;
+padding-right: 558.94;
+}
+
+.logo {
+  display: inline-block;
+  width: 126.89px;
+  height: 22px;
+  padding-right: 450px;
+}
+
+.nav {
+  float: right;
+}
+
+.nav__link {
+  position: relative;
+  margin-right: 74px;
+  margin-left: -13px;
+  font-weight: 400;
+  line-height: 25px;
+  text-align: left;
+  font-size: 17px;
+  color: #121212;
+  text-decoration: none;
+}
+
+.nav__link:nth-last-child(1) {
+  margin-right: 41px;
+}
+
+
+.nav__link:nth-last-child(2) {
+  margin-right: 65px;
+}
+
+.nav__link:hover {
+  color: gray;
+  text-decoration: underline;
+}
+
+.section {
+  width: 100%;
+  height: 717px;
+  background-image: url(../resources/bedroom.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.text1 {
+  display: block;
+  width: 443px;
+  height: 82px;
+  padding-top: 575px;
+  font-weight: 400;
+  margin-left: 125px;
+  font-size: 30px;
+  line-height: 40px;
+  color: #ffffff;
+}
+
+.text1:after:after {
+  content: counter(contacts);
+
+}
+
+.phone-before:before {
+  content: '';
+  display: block;
+  width: 24px;
+  height: 24px;
+  margin-top: 150px;
+  margin-bottom: 12px;
+  margin-left: 4px;
+  background-image: url(../resources/icon.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h6 {
+  width: 90px;
+  height: 25px;
+  font-size: 18px;
+  margin-left: 125px;
+  margin-bottom: 64px;
+}
+
+.contacts-tel {
+  display: block;
+  width: 500px;
+  height: 60px;
+  font-size: 60px;
+  font-weight: 300;
+  margin-top: 32px;
+  margin-left: 125px;
+  margin-bottom: 30px;
+  color: #121212;
+  text-decoration: none;
+}
+
+.contacts-email {
+  width: 412px;
+  height: 60px;
+  font-size: 60px;
+  font-weight: 300;
+  margin-left: 125px;
+  margin-bottom: 150px;
+  color: #121212;
+  text-decoration: none;
+}
+
+.contacts-email:hover {
+  color: gray;
+  text-decoration: none;
+  border-bottom: 2px solid gray;
+}
+
+.contacts-tel:hover {
+  color: gray;
+  text-decoration: none;
+  border-bottom: 2px solid gray;
+}
+
+.footer {
+  width: 1400px;
+  height: 229px;
+  background-color: #121212;
+  margin-top: 120px;
+}
+
+.navig {
+  width: 460px;
+  height: 29px;
+  margin: auto;
+  padding-right: 55px;
+  padding-top: 60px;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.navig:nth-child(4) {
+  padding-right: 5px;
+}
+
+.navig:hover {
+  color: gray;
+}
+
+.stud {
+  color: gray;
+  width: 389px;
+  margin: auto;
+  padding-top: 87px;
+}
+
+.site {
+  width: 2880px;
+  margin: auto;
+}
+
+.nav-section {
+  width: 1400px;
+  margin: auto;
+}
