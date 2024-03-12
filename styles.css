@@ -37,7 +37,7 @@ p {
   width: 1114px;
   height: 500px;
 
-  background-image: url(../resources/first.png);
+  background-image: url(./resources/first.png);
   background-size: contain;
   background-repeat: no-repeat;
   position: relative;
@@ -292,7 +292,7 @@ padding-right: 558.94;
 .section {
   width: 100%;
   height: 717px;
-  background-image: url(../resources/bedroom.jpg);
+  background-image: url(./resources/bedroom.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 50%;
@@ -323,7 +323,7 @@ padding-right: 558.94;
   margin-top: 150px;
   margin-bottom: 12px;
   margin-left: 4px;
-  background-image: url(../resources/icon.png);
+  background-image: url(./resources/icon.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
